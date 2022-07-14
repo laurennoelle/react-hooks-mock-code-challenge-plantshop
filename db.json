@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "spider",
+      "image": "https://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
+      "price": "10",
+      "id": 8
+    },
+    {
+      "name": "Cactus",
+      "image": "https://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
+      "price": "12",
+      "id": 9
     }
   ]
 }
